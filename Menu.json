@@ -1,0 +1,266 @@
+[
+    {
+        "Type": "Cocktails",
+        "Name": "Suzy's Margarita",
+        "Ingredients and flavors": "tequila, italian orange liquor, lemon, lime, agave, orange bitters",
+        "Origin": "",
+        "Price": "",
+        "Has_alcohol": 1
+    },
+    {
+        "Type": "Cocktails",
+        "Name": "Flora & Fauna",
+        "Ingredients and flavors": "cucumber vodka, elderflower liquor, rosemary, lemon",
+        "Origin": "",
+        "Price": "",
+        "Has_alcohol": 1
+    },
+    {
+        "Type": "Cocktails",
+        "Name": "Unusual Negroni",
+        "Ingredients and flavors": "tequila, mezcal, italicus, luxardo bitter bianco, vermouth blanc",
+        "Origin": "",
+        "Price": "",
+        "Has_alcohol": 1
+    },
+    {
+        "Type": "Cocktails",
+        "Name": "You Had Me At Aloe",
+        "Ingredients and flavors": "tequila, green chartreuse, aloe vera, lime, passionfruit",
+        "Origin": "",
+        "Price": "",
+        "Has_alcohol": 1
+    },
+    {
+        "Type": "Cocktails",
+        "Name": "Paloma Spritz",
+        "Ingredients and flavors": "tequila, aperol, grapefruit, lime",
+        "Origin": "",
+        "Price": "",
+        "Has_alcohol": 1
+    },
+    {
+        "Type": "Cocktails",
+        "Name": "Painkiller",
+        "Ingredients and flavors": "rum, pineapple, orange, coconut, nutmeg",
+        "Origin": "",
+        "Price": "",
+        "Has_alcohol": 1
+    },
+    {
+        "Type": "Seasonal Drinks",
+        "Name": "Say Less",
+        "Ingredients and flavors": "bourbon, mezcal, lime, pineapple, cinnamon",
+        "Origin": "",
+        "Price": "",
+        "Has_alcohol": 1
+    },
+    {
+        "Type": "Seasonal Drinks",
+        "Name": "Sicilian Spritz",
+        "Ingredients and flavors": "absolut elyx vodka, lemoncello, thyme, fever tree sicilian lemon",
+        "Origin": "",
+        "Price": "",
+        "Has_alcohol": 1
+    },
+    {
+        "Type": "Seasonal Drinks",
+        "Name": "Pearfect Spritz",
+        "Ingredients and flavors": "absolut elyx vodka, spiced pear, lemon, amaro montenegro, ginger, prosecco",
+        "Origin": "",
+        "Price": "",
+        "Has_alcohol": 1
+    },
+    {
+        "Type": "Seasonal Drinks",
+        "Name": "Calabrian Cosmo",
+        "Ingredients and flavors": "st. george citrus vodka, italicus bergamot, nebbiolo, lime",
+        "Origin": "",
+        "Price": "",
+        "Has_alcohol": 1
+    },
+    {
+        "Type": "Seasonal Drinks",
+        "Name": "Smokeshow",
+        "Ingredients and flavors": "whistlepig 10 yr. rye, brown sugar spiced syrup, smoke",
+        "Origin": "",
+        "Price": "",
+        "Has_alcohol": 1
+    },
+    {
+        "Type": "Seasonal Drinks",
+        "Name": "Lychee-Licious",
+        "Ingredients and flavors": "condessa gin, lychee, lime, butterfly pea extract",
+        "Origin": "",
+        "Price": "",
+        "Has_alcohol": 1
+    },
+    {
+        "Type": "Seasonal Drinks",
+        "Name": "Amaro Daquiri",
+        "Ingredients and flavors": "panteray dark rum, averna amaro, all spice dram, lime",
+        "Origin": "",
+        "Price": "",
+        "Has_alcohol": 1
+    },
+    {
+        "Type": "Zero Proof",
+        "Name": "Bitter, Spice & Everything Nice",
+        "Ingredients and flavors": "rhubarb bitter botanical, cinnamon, pineapple",
+        "Origin": "",
+        "Price": "",
+        "Has_alcohol": 0
+    },
+    {
+        "Type": "Zero Proof",
+        "Name": "Ruby Red",
+        "Ingredients and flavors": "seedlip spice botanical, peppermint tea syrup, pomegranate, ginger",
+        "Origin": "",
+        "Price": "",
+        "Has_alcohol": 0
+    },
+    {
+        "Type": "Sparkling Wine",
+        "Name": "Brut",
+        "Ingredients and flavors": "",
+        "Origin": "william heritage, reserve, nj",
+        "Price": "$15 /\u00a0$60",
+        "Has_alcohol": 1
+    },
+    {
+        "Type": "Sparkling Wine",
+        "Name": "Sparkling Rose",
+        "Ingredients and flavors": "",
+        "Origin": "francois montand, jura, fr",
+        "Price": "$13 /\u00a0$52",
+        "Has_alcohol": 1
+    },
+    {
+        "Type": "White & Rose Wine",
+        "Name": "Pinot Grigio",
+        "Ingredients and flavors": "",
+        "Origin": "tiga, it",
+        "Price": "$10 /\u00a0$40",
+        "Has_alcohol": 1
+    },
+    {
+        "Type": "White & Rose Wine",
+        "Name": "Turbiana",
+        "Ingredients and flavors": "",
+        "Origin": "allegrini, lombardy, it",
+        "Price": "$15 /\u00a0$60",
+        "Has_alcohol": 1
+    },
+    {
+        "Type": "White & Rose Wine",
+        "Name": "Assyrtiko",
+        "Ingredients and flavors": "",
+        "Origin": "estate argyros, aegean islands, gr",
+        "Price": "$16 /\u00a0$64",
+        "Has_alcohol": 1
+    },
+    {
+        "Type": "White & Rose Wine",
+        "Name": "Sancerre",
+        "Ingredients and flavors": "",
+        "Origin": "crochet, loire, fr",
+        "Price": "$19 /\u00a0$75",
+        "Has_alcohol": 1
+    },
+    {
+        "Type": "White & Rose Wine",
+        "Name": "Sauvignon Blanc",
+        "Ingredients and flavors": "",
+        "Origin": "massican, california",
+        "Price": "$17 /\u00a0$68",
+        "Has_alcohol": 1
+    },
+    {
+        "Type": "White & Rose Wine",
+        "Name": "Chardonnay",
+        "Ingredients and flavors": "",
+        "Origin": "seghesio, ca",
+        "Price": "$13 /\u00a0$52",
+        "Has_alcohol": 1
+    },
+    {
+        "Type": "White & Rose Wine",
+        "Name": "Sicilian Rose",
+        "Ingredients and flavors": "",
+        "Origin": "poggio anima, it",
+        "Price": "$10 /\u00a0$40",
+        "Has_alcohol": 1
+    },
+    {
+        "Type": "White & Rose Wine",
+        "Name": "Provence Rose",
+        "Ingredients and flavors": "",
+        "Origin": "domaine ott, 'byott', fr",
+        "Price": "$16 /\u00a0$64",
+        "Has_alcohol": 1
+    },
+    {
+        "Type": "Red Wine",
+        "Name": "Pinot Noir",
+        "Ingredients and flavors": "",
+        "Origin": "armand heitz, 'folie sauvage', burgundy, fr",
+        "Price": "$17 /\u00a0$68",
+        "Has_alcohol": 1
+    },
+    {
+        "Type": "Red Wine",
+        "Name": "Cabernet Franc",
+        "Ingredients and flavors": "",
+        "Origin": "lameraux landing, fingerlakes, ny",
+        "Price": "$11 /\u00a0$44",
+        "Has_alcohol": 1
+    },
+    {
+        "Type": "Red Wine",
+        "Name": "Barbera",
+        "Ingredients and flavors": "",
+        "Origin": "vietti, asti, piedmont, it",
+        "Price": "$14 /\u00a0$56",
+        "Has_alcohol": 1
+    },
+    {
+        "Type": "Red Wine",
+        "Name": "Sangiovese",
+        "Ingredients and flavors": "",
+        "Origin": "poggio anima, tuscany, it",
+        "Price": "$10 /\u00a0$40",
+        "Has_alcohol": 1
+    },
+    {
+        "Type": "Red Wine",
+        "Name": "Nebbiolo",
+        "Ingredients and flavors": "",
+        "Origin": "g.d. vajra, langhe, piedmont, it",
+        "Price": "$14 /\u00a0$56",
+        "Has_alcohol": 1
+    },
+    {
+        "Type": "Red Wine",
+        "Name": "Tempranillo",
+        "Ingredients and flavors": "",
+        "Origin": "lachargo, reserve, rioja, sp",
+        "Price": "$14 /\u00a0$56",
+        "Has_alcohol": 1
+    },
+    {
+        "Type": "Red Wine",
+        "Name": "Cabernet Sauvignon",
+        "Ingredients and flavors": "",
+        "Origin": "metier by delille cellars, columbia valley, wa",
+        "Price": "$15 /\u00a0$60",
+        "Has_alcohol": 1
+    },
+    {
+        "Type": "Red Wine",
+        "Name": "Bordeaux Blend",
+        "Ingredients and flavors": "",
+        "Origin": "cain, nv blen, spring mountain distric, napa, ca",
+        "Price": "$20 /\u00a0$80",
+        "Has_alcohol": 1
+    }
+]
