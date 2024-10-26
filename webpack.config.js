@@ -2,10 +2,10 @@ const path = require('path');
 
 module.exports = {
     mode: 'development',
-    entry: './bartender.js',  // Update this path to your main JS file
+    entry: './bartender.js',
     output: {
-        filename: 'bundle.js',  // The output file
-        path: path.resolve(__dirname, 'dist'),  // Output directory
+        filename: 'bundle.js',
+        path: path.resolve(__dirname, 'dist'),
     },
     module: {
         rules: [

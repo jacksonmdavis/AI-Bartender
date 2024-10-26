@@ -3,6 +3,7 @@ node_modules/
 
 bartender.js
 converttojson.py
+token.js
 
 menu.csv
 menu.xlsx
