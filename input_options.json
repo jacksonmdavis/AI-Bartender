@@ -1,0 +1,34 @@
+{
+    "feelings": [
+        "confident", "provocative", "intense", "fearless", "empowered", "pumped", "groggy", 
+        "chill", "grieving", "detached", "unapologetic", "blissful", "affectionate", "bitter", 
+        "content", "humbled", "distracted", "emotional", "hopeful", "nostalgic", "smug", 
+        "relieved", "apathetic", "bashful", "happy", "zealous", "sociable", "ecstatic", 
+        "courageous", "giggly", "restless", "eccentric", "grumpy", "vindictive", "intrigued", 
+        "frisky", "wasted", "sad", "silly", "drunk", "hyper", "spontaneous", "shy", "cheeky", 
+        "mellow", "glad", "reminiscent", "foolish", "flirtatious", "desperate", "jovial", 
+        "introspective", "pensive", "irritated", "skeptical", "reflective", "impulsive", 
+        "zen", "ambitious", "high", "reckless", "protective", "anxious", "craving", 
+        "mischievous", "optimistic", "awkward", "confused", "playful", "aggressive", 
+        "heartbroken", "amorous", "raw", "haunted", "conflicted", "lonely", "nervous", 
+        "melancholy", "excited", "impressed", "cynical", "rebellious", "angry", "adventurous", 
+        "euphoric", "impatient", "wild", "joyful", "thoughtful", "sassy", "carefree", 
+        "withdrawn", "resentful", "overwhelmed", "aloof", "serene", "paranoid", "lost", 
+        "bold", "energized", "upbeat", "grateful", "daring", "sorrowful", "wistful", "bored",
+        "tired", "exhausted", "tranquil", "lustful", "curious", "inspired", "motivated", "horny", 
+        "ironic", "caring", "numb"
+    ],
+    "likes": {
+        "flavors": [
+            "sweet", "sour", "cinnamon", "spicy", "salty", "bitter", "fruity", "tangy",
+            "minty", "smoky", "creamy", "earthy", "nutty", "savory", "umami", "fizzy",
+            "chilled", "warm", "strong", "refreshing", "smooth", "carbonated", "tropical",
+            "gin", "vodka", "whiskey", "rum", "tequila", "bourbon", "scotch", "brandy", "vermouth", 
+            "dry", "sparkly", "rich", "vanilla", "coffee", "mint", "apple", "peppermint", "you", 
+            "the bartender", "lemon", "lime", "orange", "grapefruit", "pineapple", "coconut"
+        ],
+        "drink_types": [
+            "bubbles", "beer", "red wine","white wine", "rose", "cocktails", "mocktails"
+        ]
+    }
+}
