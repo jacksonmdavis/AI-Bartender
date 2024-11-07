@@ -3,6 +3,8 @@ node_modules/
 
 bartender.js
 converttojson.py
+uniques.py
+feelings.json
 token.js
 
 menu.csv

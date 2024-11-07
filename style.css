@@ -1,13 +1,82 @@
+body {
+  font-family: Comic Sans MS, cursive, sans-serif;
+  background-color: #000000;
+  color: #ffffff;
+  text-align: center;
+  margin-top: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: #ff5722;
+  border: 3px solid #ff5722;
+  color: #ffffff;
+  /* box-sizing: border-box; */
+}
+
+#refresh-btn {
+  padding: 2px 2px;
+  border-width: 1px;
+  background-color: black;
+  color: #ff5722;
+}
+
+#clear-btn {
+  background-color: black;
+  border-style: dashed;
+  border-color: #ff5722;
+}
+
+#start-over-btn {
+  background-color: black;
+  border-style: dashed;
+  border-color: #ff5722;
+}
+
+#output {
+  margin-top: 20px;
+  font-size: 18px;
+}
+
 .menu-container {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    gap: 20px;
-    margin: 20px;
-  }
-  
-  .menu-column {
-    border: 1px solid #ccc;
-    padding: 15px;
-    border-radius: 5px;
-  }
-  
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 20px;
+  margin: 20px;
+}
+
+.menu-column {
+  border: 1px solid #ccc;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+#selectedFeelingsText {
+  margin-top: 20px;
+  font-size: 20px;
+  color: white;
+}
+#feelingText {
+  font-weight: bold;
+  color: #ff5722; /* Change color if needed */
+}
+#feelingText2 {
+  font-weight: bold;
+  color: #ff5722; /* Change color if needed */
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  max-width: 1400px;
+  margin: 0 auto;
+  gap: 20px;
+}
+
+.column {
+  flex: 1;
+  padding: 10px;
+}
