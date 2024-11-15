@@ -70,7 +70,10 @@ button {
 
 .container {
   display: flex;
-  justify-content: center;
+  justify-content: space-around; /* Distribute space between columns */
+
+  flex-wrap: wrap; /* Allow the items to wrap onto a new line */
+
   align-items: flex-start;
   max-width: 1400px;
   margin: 0 auto;
@@ -78,6 +81,14 @@ button {
 }
 
 .column {
-  flex: 1;
+  /* flex: 1; */
+  flex: 1 1 400px; /* Allow columns to grow, shrink, and set a minimum width */
+  max-width: 600px; /* Prevent them from being too wide */
   padding: 10px;
+}
+
+/* Adjust canvas width for smaller screens */
+canvas {
+    width: 100%; /* Scale to fit the column width */
+    height: auto; /* Maintain aspect ratio */
 }
